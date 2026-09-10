@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=PrincipalCuenta
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=actual\ cuentas
-comment2.target=boolean\ hayCuentaSeleccionada(int,\ java.util.List)
-comment3.params=sc\ mensaje
-comment3.target=double\ leerDouble(java.util.Scanner,\ java.lang.String)
-numComments=4
